@@ -1,0 +1,19 @@
+  .long {
+        height: calc(100vh - 56px);
+      }
+
+      .main-wrapper {
+        display: flex;
+      }
+
+      .img-loader {
+        background-color: red;
+        width: 100%;
+        min-width: 100px;
+        height: calc(100vh - 56px);
+      }
+
+      .navbar {
+        width: 100%;
+
+      }
